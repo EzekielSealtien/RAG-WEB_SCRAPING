@@ -1,3 +1,1 @@
-Dealing with :
--Retrieval Augmented Generation 
--Scraping data from a website
+This project combines web scraping to extract data from websites with Retrieval-Augmented Generation (RAG) to make models smarter by retrieving up-to-date information and providing accurate and relevant responses. It’s great for chatbots, summarizing documents, or helping with decisions.
